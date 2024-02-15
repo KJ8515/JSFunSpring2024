@@ -4,3 +4,6 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+ let myNumber = 1234;
+ console.log(myNumber);
