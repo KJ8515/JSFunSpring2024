@@ -4,3 +4,7 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const sum =  5 + 5;
+console.log(sum); 
+let sum2 = sum + 10;
+console.log(sum2)

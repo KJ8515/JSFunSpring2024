@@ -1,5 +1,6 @@
 let age = 90; // e.g.
 
+
 /**
  * Decrement the variable "age" by 1. (That is, subtract 1).
  * Use the decrement operator to solve this problem.
@@ -7,3 +8,5 @@ let age = 90; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const z = age--;
+console.log(age);

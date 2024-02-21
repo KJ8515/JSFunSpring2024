@@ -1,4 +1,5 @@
-let age = 90; // e.g.
+let age = 90 ; // e.g.
+
 
 /**
  * Increment the variable "age" by 1. (That is, add 1).
@@ -7,3 +8,5 @@ let age = 90; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const y = age++;
+console.log(age);
