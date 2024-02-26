@@ -7,3 +7,7 @@
 
  let myNumber = 1234;
  console.log(myNumber);
+
+ let myNumber2 = 567;
+ console.log(myNumber2);
+ 

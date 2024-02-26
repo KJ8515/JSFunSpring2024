@@ -7,3 +7,8 @@
  
 let year = 2024;
 console.log(year);
+
+let yearLast = 2023;
+console.log(yearLast);
+
+

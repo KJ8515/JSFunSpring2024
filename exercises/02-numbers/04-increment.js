@@ -10,3 +10,5 @@ let age = 90 ; // e.g.
 // WRITE YOUR ANSWER BELOW THIS LINE
 const y = age++;
 console.log(age);
+const x = age++;
+

@@ -9,5 +9,6 @@ let str = "Wes Craven"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
-let lastCharacter = str.indexOf(-1)
-console.log(str);
+let letter = "n"
+const lastCharacter = str[str.length 1]
+console.log(lastCharacter);

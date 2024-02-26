@@ -1,4 +1,4 @@
-const place = "New Jersey"; // e.g.
+const place = "New Mexico city"; // e.g.
 
 /**
  * Create a variable called "newPlace". It should use "place" above and it should be equal to the last part of a place name.
@@ -17,5 +17,5 @@ const place = "New Jersey"; // e.g.
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 let spaceIndex = place.indexOf(" ");
-let newPlace = place.substring(spaceIndex + 1);
+let newPlace = place.substring(spaceIndex + 8);
 console.log(newPlace);
