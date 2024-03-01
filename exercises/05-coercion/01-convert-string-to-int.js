@@ -7,3 +7,4 @@ let answer = "55"; // e.g.
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 console.log(Number(answer), typeof answer);
+console.log(parseInt(answer));

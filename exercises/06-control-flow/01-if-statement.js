@@ -17,3 +17,5 @@ let isBuyingDrink = true; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+if (isBuyingDrink) {console.log(` ${burger + drink} is your total.`);
+} else if (burger) {console.log(`${burger} is your total.`);}

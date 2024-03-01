@@ -1,7 +1,7 @@
 let isNotAtGoalWeight;
 
-let targetBMI = 24; // e.g.
-let actualBMI = 27; // e.g.
+let targetBMI = 27; // e.g.
+let actualBMI = "27"; // e.g.
 
 /**
  * You will be changing the value of "isNotAtGoalWeight" below.
@@ -11,3 +11,10 @@ let actualBMI = 27; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+
+isNotAtGoalWeight = false;
+
+if (targetBMI !== actualBMI) {
+    console.log("you are not at goal weight.");
+}   isNotAtGoalWeight = true;

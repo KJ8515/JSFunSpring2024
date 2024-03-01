@@ -8,3 +8,16 @@ let num = 8; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+let remainder = (num % 2)
+
+isEven = true;
+isOdd = true;
+
+if (remainder == 0 ) {
+    isEven = true;
+    console.log(`${num} is even.`)
+} else (remainder !== 0) { 
+    isOdd = true;
+    console.log(`${num} is odd.`)
+}

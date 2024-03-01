@@ -1,7 +1,7 @@
 let isEqual;
 
 let userInput1 = 39; // e,g,
-let userInput2 = "39"; // e,g,
+let userInput2 = "33"; // e,g,
 
 /**
  * You will be changing the value of "isEqual" below.
@@ -12,3 +12,9 @@ let userInput2 = "39"; // e,g,
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+if (userInput1 === userInput2) {
+    isEqual = true;
+} else if (isEqual = false);
+
+console.log(userInput1 === userInput2);
