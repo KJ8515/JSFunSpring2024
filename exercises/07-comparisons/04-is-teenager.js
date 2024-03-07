@@ -1,4 +1,4 @@
-let age = 20; // e.g.
+let age = 18; // e.g.
 
 /**
  * Create a variable called "isTeenager". (Do not use var.)
@@ -15,7 +15,7 @@ let isTeenager;
 if (age > 12 && age < 20) {
     isTeenager = true;
     console.log("you are a teen");
-} if (age <=12 || age >=20) { 
+} else if (age <=12 || age >=20) { 
     isTeenager = false;
     console.log("you are not a teen.");
 }

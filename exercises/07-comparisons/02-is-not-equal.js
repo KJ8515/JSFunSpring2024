@@ -17,4 +17,8 @@ isNotAtGoalWeight = false;
 
 if (targetBMI !== actualBMI) {
     console.log("you are not at goal weight.");
-}   isNotAtGoalWeight = true;
+    isNotAtGoalWeight = true;
+}   else if (targetBMI === actualBMI) {
+        console.log("you are at goal weight.");
+        isNotAtGoalWeight = false;
+    }
