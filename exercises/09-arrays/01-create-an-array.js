@@ -4,3 +4,5 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+const restaurants = ["Texas de Brazil", "Wendy/s", "Waffle House"];
+console.log(restaurants [2]);
