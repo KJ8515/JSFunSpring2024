@@ -1,4 +1,4 @@
-let planets = ["Pluto", "Saturn", "Mar"]; // e.g.
+let planets = ["Pluto", "Saturn", "Mars"]; // e.g.
 
 /**
  * Create a variable called "length".
@@ -6,3 +6,7 @@ let planets = ["Pluto", "Saturn", "Mar"]; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+let length;
+ for (let i = 0; i < planets.length;)
+console.log(planets);

@@ -1,4 +1,4 @@
-let num = 8; // e.g.
+let num = 13; // e.g.
 
 /**
  * Create a variable called "isEven". (Do not use var.)
@@ -9,15 +9,9 @@ let num = 8; // e.g.
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-let remainder = (num % 2)
+let isEven = false;
 
-isEven = true;
-isOdd = true;
-
-if (remainder == 0 ) {
+if (num % 2 == 0) {
     isEven = true;
-    console.log(`${num} is even.`)
-} else (remainder !== 0) { 
-    isOdd = true;
-    console.log(`${num} is odd.`)
 }
+console.log(isEven);
