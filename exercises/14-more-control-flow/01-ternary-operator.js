@@ -1,4 +1,4 @@
-let num = 8; // e.g.
+let num = 5; // e.g.
 
 /**
  * This is similar to an older problem.
@@ -11,3 +11,7 @@ let num = 8; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+ const isEvenOrOdd = num%2 == 0 ? 'Even' : 'Odd' ;
+ console.log(isEvenOrOdd);
+
+ 
