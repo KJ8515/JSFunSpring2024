@@ -2,9 +2,10 @@ let results = [
   // e.g.
   "Aaminata Kamau",
   "Claire O'Hannigan",
-  "Jian Hou",
+  
   "María Rosales",
   "Fathima Kaur",
+  "Jian Hou",
 ];
 
 /**
@@ -19,5 +20,5 @@ let results = [
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
- let place = results.indexOf("Jian Hou") + 1;
+ let place = results.indexOf("Jian Hou");
  console.log(place);

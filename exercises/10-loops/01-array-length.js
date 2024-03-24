@@ -7,6 +7,6 @@ let planets = ["Pluto", "Saturn", "Mars"]; // e.g.
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-let length;
- for (let i = 0; i < planets.length;)
-console.log(planets);
+let length = planets.length;
+console.log(length);
+

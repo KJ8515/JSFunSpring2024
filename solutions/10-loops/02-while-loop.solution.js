@@ -17,8 +17,9 @@ while (counter <= 10) {
 }
 
 // Method 2
-let counter = 10;
+/*let counter = 10;
 while (counter <= 100) {
   console.log(counter);
   counter = counter + 10;
-}
+}*/
+

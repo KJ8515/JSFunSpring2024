@@ -22,11 +22,12 @@ const format = (string1, string2) => {
  */
 
 const formatString = (string1, string2, callback) => {
+  return ;
   // WRITE YOUR ANSWER IN HERE
 };
 
 // Uncomment me to test in Quokka
-// console.log( formatString("Wash dishes", "Do laundry", format) );
+console.log( formatString("Wash dishes", "Do laundry", format) );
 
 // IGNORE THIS BELOW. It is for the tests.
 

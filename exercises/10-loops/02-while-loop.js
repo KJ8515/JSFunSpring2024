@@ -9,6 +9,12 @@
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-let countByTen = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
-    while (countByTen <= 100) { countByTen += 10}
-console.log(countByTen);
+/*let countByTen = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
+    while (countByTen <= 100) { countByTen += 10};
+console.log(countByTen);*/
+
+let counter = 10;
+while (counter <= 100) {
+    console.log(counter)
+    counter = counter + 10;
+}
