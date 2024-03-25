@@ -16,8 +16,8 @@ let student = {
 
 // WRITE YOUR ANSWER BELOW THIS LINE
 
-student = {name: "Kimarley Johnson",
-skills: 'Javascript', 'people person.'};
+  student.name = "Kimarley Johnson";
+  student.skills.push('C++');
 
 console.log(student);
 

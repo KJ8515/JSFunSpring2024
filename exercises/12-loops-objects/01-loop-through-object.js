@@ -17,3 +17,10 @@ const links = {
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+let html = "" ;
+for (let sites in links) {
+  const href = links[sites];
+  html = html + '<a href="'+ href + `">` + sites + `</a>`;
+}
+console.log(html)

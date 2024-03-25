@@ -15,6 +15,6 @@ console.log(countByTen);*/
 
 let counter = 10;
 while (counter <= 100) {
-    console.log(counter)
+    console.log(counter);
     counter = counter + 10;
 }

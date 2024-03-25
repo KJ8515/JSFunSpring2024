@@ -6,7 +6,7 @@ let linkedInLink = "https://linkedin.com/profile"; // e.g.
 
 /**
  * Create a nested object called "graduate".
- * Assigns "name", "graduationYear", and many of the other values above to the object
+ * Assign "name", "graduationYear", and many of the other values above to the object
  * in this format:
  * @property {string} name
  * @property {string} graduationYear
@@ -30,3 +30,12 @@ let linkedInLink = "https://linkedin.com/profile"; // e.g.
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+const graduate = {
+    name,
+    graduationYear,
+    skills, 
+    links: {githubLink,
+    linkedInLink,},
+};
+console.log(graduate); 
